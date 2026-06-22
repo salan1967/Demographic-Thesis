@@ -87,7 +87,7 @@ This section is not a separate, independently tested pillar. It supports the wri
 | Japan | 2.8% | 5 | 20 |
 | Korea, Rep. | 3.5% | 5 | 20 |
 
-**A data quality caveat that matters more here than anywhere else in this checkpoint.** World Bank labels migrant stock share "annual," but the table above shows far fewer distinct values than years covered, confirming the underlying UN source data is only genuinely updated roughly every 5 years. The chart below reflects that directly rather than implying smoother annual change than the data supports. Net migration (the flow measure, as opposed to migrant stock share) is even sparser, reported only on 5-year UN estimate windows, so it is summarized here rather than charted on its own.
+World Bank labels migrant stock share "annual," but the table above shows far fewer distinct values than years covered, confirming the underlying UN source data is only genuinely updated roughly every 5 years. The chart below reflects that directly rather than implying smoother annual change than the data supports. Net migration (the flow measure, as opposed to migrant stock share) is even sparser, reported only on 5-year UN estimate windows, so it is summarized here rather than charted on its own.
 
 **Reading the result against the stance.** Even with infrequent updates, the gap between the US and Japan/Korea's migrant stock share is large and persistent across every available data point, consistent with the stance that the US has a real, structural immigration offset that Japan and South Korea do not. This is directional support for the immigration pillar, not a precise trend test — the data's update frequency does not currently allow for the same kind of regression or significance testing used for the dependency ratio in Part 1.
 
@@ -104,7 +104,7 @@ The data does not yet show a larger automation-vs-labor spread post-AI-wave than
 
 **A likely driver: the automation basket is a poor proxy for the generative-AI wave specifically.** ROBO and BOTZ are industrial robotics ETFs — their largest holdings (e.g., Fanuc, ABB, Keyence, Intuitive Surgical) are pre-genAI-era automation companies, not generative-AI or agentic-automation names. Meanwhile XRT (retail) and ITB (homebuilders) both had unusually strong 2023-2024 runs for reasons unrelated to demographics (resilient post-COVID consumer spending, rate-cut anticipation lifting homebuilders). So this result is better read as *the test could not distinguish industrial-robotics-era performance from generative-AI-era performance*, rather than as evidence against the underlying mechanism.
 
-This sharpens rather than undermines the checkpoint: the demographic mechanism (Part 1) holds up cleanly, but the basket used to test the *investment response* needs to be more specifically AI-software-exposed (e.g., AIQ, IRBO, or a custom basket of AI-infrastructure names) rather than industrial-robotics ETFs, to actually test the early-innings generative-AI-wave stance. That is the top priority fix for the next tier of this analysis.
+The demographic mechanism (Part 1) holds up cleanly, but the basket used to test the *investment response* needs to be more specifically AI-software-exposed (e.g., AIQ, IRBO, or a custom basket of AI-infrastructure names) rather than industrial-robotics ETFs, to actually test the early-innings generative-AI-wave stance. That is the top priority fix for the next tier of this analysis.
 
 Other contributing factors worth naming: (a) the post-2023 window is still short, limiting statistical power; (b) the market may have already priced in some automation premium during the 2017-2020 robotics cycle, ahead of the generative-AI wave this thesis is actually about.
 
@@ -113,7 +113,7 @@ Other contributing factors worth naming: (a) the post-2023 window is still short
 ![02_basket_performance.png](charts/02_basket_performance.png)
 ![03_spread_by_year.png](charts/03_spread_by_year.png)
 
-**Bonus chart** (beyond the 2-3 required) — a direct US-specific check on labor scarcity using FRED data, independent of the World Bank dependency-ratio series:
+**Bonus chart** — a direct US-specific check on labor scarcity using FRED data, independent of the World Bank dependency-ratio series:
 ![04_labor_scarcity_fred.png](charts/04_labor_scarcity_fred.png)
 ![05_demographic_clock.png](charts/05_demographic_clock.png)
 ![06_immigration.png](charts/06_immigration.png)
