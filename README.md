@@ -58,7 +58,7 @@ Outputs: 3-4 charts in `./charts/` and a full written verdict at `./REPORT.md`
 No API key required — World Bank, FRED (no-key CSV endpoint), and yfinance are
 all used without authentication.
 
-### Interactive dashboard (beyond baseline)
+### Interactive dashboard 
 
 ```bash
 streamlit run src/app.py
@@ -149,5 +149,3 @@ the "early innings, not yet priced in" framing rather than a simple
   AI-wave split date.
 - Expand baskets to individual names for sector-level granularity.
 - Interactive dashboard for adjusting thresholds in real time.
-
----
