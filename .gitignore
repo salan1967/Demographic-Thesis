@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs — these get recreated by running python src/analysis.py
+charts/
+REPORT.md
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment variables (never commit secrets)
+.env
+
+# yfinance cache
+*.pkl
