@@ -64,7 +64,7 @@ The full thesis names four channels through which demographic contraction is exp
 
 A positive, statistically significant slope confirms dependency ratios are rising — i.e., the working-age population is shrinking relative to dependents — across all three countries, consistent with the thesis's core premise.
 
-## The Demographic Clock — An Unexpected Angle
+## The Demographic Clock 
 
 Rather than treating the US, Japan, and South Korea as three independent data points on a calendar-year x-axis, this checkpoint re-aligns all three countries on **years since crossing a common dependency-ratio threshold (50)**. The idea: Japan and South Korea are not just 'other countries' — they are the US's own trajectory at different points in time. Reading their post-crossing history can act as a preview of what the US is approaching, rather than treating all three as separate, disconnected cases.
 
